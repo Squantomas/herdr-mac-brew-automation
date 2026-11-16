@@ -1,0 +1,9 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "~/bin",
+      "~/Library/LaunchAgents",
+      "~/brew-reports"
+    ]
+  }
+}

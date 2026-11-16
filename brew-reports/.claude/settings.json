@@ -1,0 +1,7 @@
+{
+  "model": "claude-haiku-5-5",
+  "effortLevel": "low",
+  "permissions": {
+    "allow": ["Bash(brew update:*)", "Bash(brew upgrade:*)"]
+  }
+}
